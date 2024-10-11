@@ -1,21 +1,19 @@
 contract verification link :
 
+BLS token : https://sepolia.etherscan.io/address/0x45a7ef34a3870677952f9c57709df703ccbad088#code
 
-BlumeLiquidityStake : https://sepolia.etherscan.io/address/0xe8d871FD30aDA433c3BE8aA09D8aE61B33A09a2D#code
+Liquidity staking : https://sepolia.etherscan.io/address/0x26b4dae1dfd582d3ad9f2e1d6f19002cb9e58d75#code
 
 
-Ethereum Smart Wallet : https://sepolia.etherscan.io/address/0xbE50ea57782D150679186bEd3c3fc6c0296c96bf#code
+smart wallet : https://sepolia.etherscan.io/address/0xbE50ea57782D150679186bEd3c3fc6c0296c96bf#code
 
 
 
 Video Link :
 
-BlumeLiquidityStake :
-https://vimeo.com/1018648049?share=copy
+BlumeLiquidityStake : https://vimeo.com/1018666001
+
+Ethereum Smart Wallet :   https://vimeo.com/1018669719
 
 
-
-
-
-Ethereum Smart Wallet :  
-https://vimeo.com/1018648049?share=copy
+smart contract verification : https://vimeo.com/1018674891
