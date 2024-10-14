@@ -9,6 +9,12 @@ smart wallet : https://sepolia.etherscan.io/address/0xbE50ea57782D150679186bEd3c
 
 two factor contract : https://sepolia.etherscan.io/address/0x81c2e414c54eef4240f2e079e8ba4b91450a962c#code
 
+Collateral dbola contract: https://sepolia.etherscan.io/address/0x2a9ff9d123a581cf81e92e10c4906cbc6b437dcb#code
+
+Wrapped Embrass contract: https://sepolia.etherscan.io/address/0x6dd8733b5f1cc76de971aba79a88d00876aa645f#code
+
+
+
 
 
 
@@ -23,3 +29,9 @@ smart contract verification : https://vimeo.com/1018674891
 
 
 two factor : https://vimeo.com/manage/videos/1019120855
+
+
+
+Collateral dbola: https://vimeo.com/1019473281
+
+Wrapped Embrass : https://vimeo.com/1019467516
